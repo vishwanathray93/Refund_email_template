@@ -15,7 +15,9 @@ This project helps businesses send clean and user-friendly refund confirmation e
 - Compatible with most email clients
 
 ---
-![Refund Email Preview]([https://github.com/vishwanathray93/Refund_email_template/blob/master/image%20(1).png])
+## 📸 Preview
+
+![Refund Email Preview](https://raw.githubusercontent.com/vishwanathray93/Refund_email_template/master/image%20(1).png)
 ## 📂 Project Structure
 
 ```bash
